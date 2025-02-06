@@ -30,5 +30,4 @@ def format_linter_report(linter_report: dict) -> list:
         }
         for argument in linter_report
         ]
-
 return
